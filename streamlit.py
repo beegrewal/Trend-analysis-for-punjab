@@ -70,5 +70,5 @@ plt.xticks(rotation=90)
 st.pyplot(plt)
 
 
-[For More Google Coolab](https://colab.research.google.com/drive/1q_5lc1YlyCP6vCyQNQpVInlwvygxOHRJ?usp=sharing)
+
 
