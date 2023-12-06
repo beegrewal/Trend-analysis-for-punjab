@@ -66,5 +66,5 @@ st.dataframe(filtered_df)
 st.subheader("Plot View (District)")
 # Display a bar chart of rainfall for the selected country and year
 sns.barplot(x="DISTRICT", y="ANNUAL", data=filtered_df)
-plt.xticks(rotation=45)
+plt.xticks(rotation=90)
 st.pyplot(plt)
