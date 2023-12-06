@@ -68,3 +68,7 @@ st.subheader("Plot View (District)")
 sns.barplot(x="DISTRICT", y="ANNUAL", data=filtered_df)
 plt.xticks(rotation=90)
 st.pyplot(plt)
+
+
+[For More Google Coolab]()
+
